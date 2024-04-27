@@ -1,0 +1,4 @@
+4/26/24
+
+- Setup a CLI screen that can be used to display stuff
+- started making conways game of life, does not work atm.
